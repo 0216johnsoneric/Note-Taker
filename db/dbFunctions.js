@@ -4,6 +4,7 @@ const { v4: uuid4 } = require("uuid");
 
 const readFileAsync = util.promisify(fs.readFile);
 const writeFileAsyc = util.promisify(fs.writeFile);
+
 class DbFunctions {
   async getNotes() {
     try {
