@@ -15,10 +15,11 @@ db.json file used to store and retrieve notes using the `fs` module.
 
 ## Deploying the App
 
-1) Clone lab: git clone git@github.com:0216johnsoneric/Weather-Dashboard.git 
+1) Clone lab: git clone git@github.com:0216johnsoneric/Note-Taker.git
 2) Run in Browser w/ localhost or VS code browser extension
 3) Run node server.js
 4) Open localhost:3000 in Web Browser
+
 Or
 1) Visit Deployed app via Heroku https://notes-taker-apps.herokuapp.com/
 
